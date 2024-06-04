@@ -1,0 +1,6 @@
+@onlinebookshop.Server_HostAddress = http://localhost:5162
+
+GET {{onlinebookshop.Server_HostAddress}}/bookshop/
+Accept: application/json
+
+###
